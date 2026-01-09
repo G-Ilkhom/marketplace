@@ -26,11 +26,11 @@
 ## Установка и настройка
 ### 1. Клонируйте репозиторий:
 ```sh
-git clone https://github.com/G-Ilkhom/graduate_work.git
+git clone https://github.com/G-Ilkhom/marketplace.git
 ```
 ### 2. Перейдите в директорию проекта и создайте виртуальное окружение:
 ```sh
-cd graduate_work
+cd marketplace
 python -m venv venv
 ```
 
